@@ -1,5 +1,6 @@
 # PluginsSetup
-Eclipse插件万能安装程序
+
+PluginsSetup是简化Eclipse插件安装步骤的一个小程序
 
 
 操作方法：
@@ -13,3 +14,4 @@ Eclipse插件万能安装程序
 配置文件目录：X:\Genuitec\MyEclipse-9.0M1\configuration\org.eclipse.equinox.simpleconfigurator
   
  
+这个项目也可以作为SWING的Hello World来学习！
